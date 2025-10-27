@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/counter_publisher.dir/counter_publisher.cpp.o CMakeFiles/counter_publisher.dir/gen_c/counter.c.o -o counter_publisher  -Wl,-rpath,/usr/local/lib /usr/local/lib/libddsc.so 

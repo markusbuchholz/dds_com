@@ -1,0 +1,4 @@
+/workspace/src/proj_cpp/build/CMakeFiles/counter_publisher.dir
+/workspace/src/proj_cpp/build/CMakeFiles/counter_subscriber.dir
+/workspace/src/proj_cpp/build/CMakeFiles/edit_cache.dir
+/workspace/src/proj_cpp/build/CMakeFiles/rebuild_cache.dir

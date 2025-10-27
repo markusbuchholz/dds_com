@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/counter_subscriber.dir/counter_subscriber.cpp.o CMakeFiles/counter_subscriber.dir/gen_c/counter.c.o -o counter_subscriber  -Wl,-rpath,/usr/local/lib /usr/local/lib/libddsc.so 

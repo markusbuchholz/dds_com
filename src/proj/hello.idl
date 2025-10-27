@@ -1,5 +1,0 @@
-module demo {
-  struct Hello {
-    string msg;
-  };
-};

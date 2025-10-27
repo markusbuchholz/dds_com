@@ -1,0 +1,7 @@
+module demo {
+  // Optional annotation if you want to silence the warning:
+  // @appendable
+  struct Counter {
+    long value;
+  };
+};
