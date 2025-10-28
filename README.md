@@ -1,11 +1,16 @@
 # DDS Communication
 
+## Build Docker
 ```bash
-
+cd docker
+sudo ./build.sh
 ```
 
+## Run Docker
 ```bash
 
+cd docker
+sudo ./run.sh
 ```
 
 
