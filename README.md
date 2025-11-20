@@ -1,21 +1,9 @@
-# DDS Communication
-
-## Build Docker
-```bash
-cd docker
-sudo ./build.sh
-```
-
-## Run Docker
-```bash
-
-cd docker
-sudo ./run.sh
-```
-
+# dds_com
 
 
 ```bash
+
+cd proj_cpp
 
 # clean
 rm -rf gen_c build
@@ -28,6 +16,7 @@ idlc -l c counter.idl
 
 # copy generated files
 cp -v counter.c counter.h gen_c/
+
 
 # configure & build
 cmake -S . -B build \
